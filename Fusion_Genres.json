@@ -18,7 +18,7 @@
   },
   {
     "id": "sci",
-    "name": "Sci",
+    "name": "Sci-Fi",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -168,5 +168,23 @@
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
+  },
+  {
+    "id": "romance",
+    "name": "Romance",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://images2.imgbox.com/5c/de/c2N2uxoY_o.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   }
+]
 ]
